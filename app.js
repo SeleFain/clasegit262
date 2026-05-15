@@ -8,7 +8,7 @@ const alumnos = [
 function mostrarAlumnos() {
   console.log("Lista de alumnos:");
   alumnos.forEach(alumno => {
-    console.log(`El Nombre del alumno: ${alumno.nombre}, Edad: ${alumno.edad}`);
+    console.log(`El Nombre del alumno: ${alumno.nombre}, y su Edad: ${alumno.edad}`);
   });
 }
 
