@@ -1,6 +1,8 @@
 const alumnos = [
   { nombre: "Juan", edad: 20 },
   { nombre: "María", edad: 22 },
+  { nombre: "Geronimo", edad: 20 },
+  { nombre: "Lucia", edad: 22 },
   { nombre: "Lucia", edad: 20},
   { nombre: "Mateo", edad: 23},
   { nombre: "Emilia", edad: 21},
